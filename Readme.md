@@ -34,12 +34,11 @@ public class Main {
 
 - Main
 
-![a](C:\Users\eduar\OneDrive\Escritorio\Main%20Uml.png)
+![Main Uml](https://github.com/Guallitoprogra/HDT8-/assets/131787074/1764ef80-5dfc-4090-abad-dce1c76512fc)
 
 - Paciente 
   
-  ![a](C:\Users\eduar\OneDrive\Escritorio\Paciente%20UML%20.png)
+ ![Paciente UML ](https://github.com/Guallitoprogra/HDT8-/assets/131787074/499ebe31-b3a7-43ca-be8c-ee1f94c86540)
 
 - VectorHeap 
-
-![a](C:\Users\eduar\OneDrive\Escritorio\VectorHeap%20.png)
+![VectorHeap ](https://github.com/Guallitoprogra/HDT8-/assets/131787074/bb7ba815-3012-47a5-9638-b9567762281a)
