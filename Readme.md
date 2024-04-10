@@ -12,7 +12,8 @@ public class Main {
 
 ###### Funcionamiento de Programa
 
-![a](C:\Users\eduar\OneDrive\Escritorio\Captura%20de%20pantalla%202024-04-09%20193237.png)
+![Funcionamiento Correcto ](https://github.com/Guallitoprogra/HDT8-/assets/131787074/0259a9ab-647d-4c3e-9736-dea6faa84efe)
+
 
 ---
 
@@ -40,5 +41,6 @@ public class Main {
   
  ![Paciente UML ](https://github.com/Guallitoprogra/HDT8-/assets/131787074/499ebe31-b3a7-43ca-be8c-ee1f94c86540)
 
-- VectorHeap 
+- VectorHeap
+  
 ![VectorHeap ](https://github.com/Guallitoprogra/HDT8-/assets/131787074/bb7ba815-3012-47a5-9638-b9567762281a)
